@@ -1,0 +1,27 @@
+{
+  "name": "천년수 | Physics Educator & Technology Innovator",
+  "short_name": "Chuncool",
+  "description": "물리 교육자이자 기술 혁신가 천년수의 포트폴리오 웹사이트",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f0f23",
+  "theme_color": "#00f5ff",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "assets/icons/icon-512.png", 
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "categories": ["education", "technology", "portfolio"],
+  "lang": "ko",
+  "dir": "ltr"
+}
