@@ -1,0 +1,14 @@
+name = "chuncool-portfolio"
+compatibility_date = "2024-09-18"
+
+[env.production]
+name = "chuncool-portfolio"
+
+# Pages 설정
+pages_build_output_dir = "."
+pages_dir = "."
+
+# 커스텀 도메인 (배포 후 설정)
+# routes = [
+#   { pattern = "chuncool.co.kr", custom_domain = true }
+# ]
