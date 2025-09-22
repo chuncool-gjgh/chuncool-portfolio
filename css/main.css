@@ -719,6 +719,16 @@ h1, h2, h3, h4, h5, h6 {
 .skill-icon {
   font-size: var(--font-size-4xl);
   margin-bottom: var(--spacing-md);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.skill-image {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+  filter: drop-shadow(0 0 10px rgba(0, 245, 255, 0.3));
 }
 
 .skill-title {
